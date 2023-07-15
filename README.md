@@ -1,1 +1,3 @@
-# Art-Gallary-
+# Art-Gallary
+
+Using HTML and Tailwind CSS
